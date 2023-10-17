@@ -1,7 +1,13 @@
 # GitHub for Developers
 
-- Class Date: THIS-DATE
-- Facilitator: @TEACHER-HANDLE
+- Class Date: October 17, 2023
+- Facilitator: Madelyn Kapfhammer
+- Name: Myky Huynh
+
+🐥🌸🤍👩🏻‍💻
+pronounced like _mickey hun_
+**slay!**
+
 
 ## Class Resources
 
